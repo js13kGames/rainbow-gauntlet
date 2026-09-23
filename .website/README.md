@@ -6,6 +6,7 @@ Welcome to the Rainbow Gauntlet unicorn.
 
 For time immemorial we have stood against the darkness that taints and devours the world. It is now your turn to test yourself. The horde of evil will come at you in waves. Defend yourself with your rainbow blast and prism projectiles.
 
+Mouse - Aim melee and ranged
 WASD - Movement
 Space - Melee Attack (rainbow blast)
 Left Mouse Click - Ranged Attack
